@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Blessing Dawodu from Lagos. I am a front-end developer. I enjoy learning languages and frameworks like React.
+I also enjoy interpreting designs 😄.
+
 <!--
 **trameter-blessing/trameter-blessing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
